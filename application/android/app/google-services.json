@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570052436862",
+    "project_id": "tp-flutter-53955",
+    "storage_bucket": "tp-flutter-53955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570052436862:android:f6d87bc298dcb0c5b1892f",
+        "android_client_info": {
+          "package_name": "noah.chatelain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570052436862-ej1evhd7acgkbtff5ha91eggoeuqldm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1i4jhH7f1EFvktbUPdf-l2r-EW3KsEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570052436862-ej1evhd7acgkbtff5ha91eggoeuqldm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
