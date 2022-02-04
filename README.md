@@ -3,7 +3,7 @@
 ![Python 3.9](https://img.shields.io/badge/python-3.9-yellow)
 ![Python 3.9](https://img.shields.io/badge/Flutter-Dart-blue)
 ![Python 3.9](https://img.shields.io/badge/Google-Colab-red)
-![Python 3.9](https://img.shields.io/badge/YOLO-v4-lightgrey)
+![Python 3.9](https://img.shields.io/badge/YOLO-v3-lightgrey)
 
 ## Overview of the final application
 
