@@ -1,8 +1,6 @@
 # CoinCounter
 
-Accès Firebase : (compte *didier.juge-hubert@imt-nord-europe.fr*)
-
-[https://console.firebase.google.com/u/0/project/tp-flutter-53955](https://console.firebase.google.com/u/0/project/tp-flutter-53955)
+My own model trained to recognize French coins available here : https://bit.ly/3gskO4k
 
 ```bash
 # Run server
