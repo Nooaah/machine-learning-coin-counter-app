@@ -1,6 +1,6 @@
 # CoinCounter
 
-My own model trained to recognize French coins available here : https://bit.ly/3gskO4k
+My own model (yolov3_training_2400.weights) trained to recognize French coins available here : https://bit.ly/3gskO4k
 
 ```bash
 # Run server
