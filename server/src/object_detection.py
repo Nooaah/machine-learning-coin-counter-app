@@ -18,8 +18,7 @@ class object_detection:
         self.net = cv2.dnn.readNet(
             "yolov3_training_2400.weights", "yolov3.cfg")
         self.layer_names = self.net.getLayerNames()
-        self.output_layers = [self.layer_names[i[0] - 1]
-                              for i in self.net.getUnconnectedOutLayers()]
+        self.output_layers = [self.layer_names[i - 1] for i in self.net.getUnconnectedOutLayers()]
 
         self.classes = []
         with open("coco.names", "r") as f:
